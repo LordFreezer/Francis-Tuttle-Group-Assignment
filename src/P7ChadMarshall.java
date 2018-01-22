@@ -6,7 +6,7 @@ public class P7ChadMarshall {
     public static void main(String[] args) {
         int[][] weekHours
                 = {
-                    {2, 4, 3, 4, 5, 8, 8},
+                    {2, 4, 3, 4, 5, 8, 4},
                     {7, 3, 4, 3, 3, 4, 4},
                     {3, 3, 4, 3, 3, 2, 2},
                     {9, 3, 4, 7, 3, 4, 1},
